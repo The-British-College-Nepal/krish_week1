@@ -1,0 +1,17 @@
+
+# Week 1 Day 2: Docker ML Lab Verification
+
+**Student Name:** Krish Kumar Jha
+**Student ID:** 25024625
+**Docker Hub Repository:** https://hub.docker.com/r/krishkj/my-first-ml
+
+## 1. Local Training Output
+- **Learned Equation:** Exam Score = (7.50 * Study Hours) + 35.00[cite: 7]
+- **R² Score:** 0.9850[cite: 7]
+- **Mean Squared Error:** 2.1429
+
+## 2. Verification Screenshot / Terminal Proof
+- Pushed custom ML image (`krishkj/my-first-ml:v1`) to Docker Hub successfully[cite: 7].
+- Pulled official course image `alkimi/ml:week1` successfully[cite: 7].
+- Launched JupyterLab on `http://localhost:8888` successfully[cite: 7].
+"@ | Out-File -Encoding utf8 WEEK1_DAY2_VERIFICATION.md
